@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f14786ff-4cd0-4c0f-a1fd-dfad2a1625b0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-03-26-unix.markdown" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-26-unix.markdown" afterPath="$PROJECT_DIR$/_posts/2018-03-26-unix.markdown" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-03-27-manuel.markdown" afterPath="$PROJECT_DIR$/_posts/2018-03-27-manuel.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,21 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-03-27-manuel.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-03-27-manuel.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-27-manuel.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="28" selection-end-column="7" />
+            <state relative-caret-position="51">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-03-26-unix.markdown" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-03-26-unix.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-26-unix.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -60,6 +59,7 @@
       <list>
         <option value="$PROJECT_DIR$/_posts/2018-03-28-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-03-27-manuel.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-26-unix.markdown" />
       </list>
     </option>
   </component>
@@ -273,18 +273,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-26-unix.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-27-manuel.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-27-manuel.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-26-unix.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="28" selection-end-column="7" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
